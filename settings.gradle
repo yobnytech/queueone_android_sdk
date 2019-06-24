@@ -1,0 +1,1 @@
+include ':app', ':queueone-sdk-core', ':queueone-sdk-firebase-adapter'
